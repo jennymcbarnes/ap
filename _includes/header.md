@@ -1,4 +1,4 @@
 # [CS50 AP]({{ "/" | relative_url }})
 
-Harvard University\\
+MatSu Middle College w/ANSEP\\
 2019–2020
